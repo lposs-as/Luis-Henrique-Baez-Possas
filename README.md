@@ -1,4 +1,4 @@
-## Olá, sou o JLuis Henrique Baez Possas
+## Olá, sou o Luis Henrique Baez Possas
 
 Desenvolvedor web com foco em front-end e mobile.
 Estudante de programação em Curitiba, PR.
